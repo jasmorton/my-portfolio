@@ -1,2 +1,4 @@
+# Jason Morton's portfolio
 # my-portfolio
-my professional portfolio
+
+This is my professional portfolio using React and AWS
